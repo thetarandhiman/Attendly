@@ -18,7 +18,7 @@ Run app in local environment:
 2. Initialize npm and get all the required npm packages for the project.
 3. Run the command
   ```
-  npm dev run
+  npm run dev
   ```
  4. It will run on ```localhost:3000/```.
 
