@@ -22,4 +22,4 @@ Run app in local environment:
   ```
  4. It will run on ```localhost:3000/```.
 
-Credits: [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-2124b3b4/?original_referer=https%3A%2F%2Fgithub.com%2Fprashant-cn%2Fface-recognition-from-webcam-and-video-sources) & [face-api.js](https://justadudewhohacks.github.io/face-api.js/docs/index.html)
+Due Credits to: [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-2124b3b4/?original_referer=https%3A%2F%2Fgithub.com%2Fprashant-cn%2Fface-recognition-from-webcam-and-video-sources) & [face-api.js](https://justadudewhohacks.github.io/face-api.js/docs/index.html)
